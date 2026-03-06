@@ -8,12 +8,6 @@ LatinCy models are trained on large amounts of Latin data, including all five La
 - **Lemmatization**: 94.66% accuracy
 - **Morphological tagging**: 92.76% accuracy
 
-## Installation
-
-```bash
-pip install latincy
-```
-
 ## Models
 
 ### Latin (spaCy)
