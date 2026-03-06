@@ -14,7 +14,7 @@ LatinCy models are trained on large amounts of Latin data, including all five La
 
 | Model | Description |
 |-------|-------------|
-| [`la_core_web_trf`](https://huggingface.co/latincy/la_core_web_trf) | Transformer pipeline (RoBERTa) |
+| [`la_core_web_trf`](https://huggingface.co/latincy/la_core_web_trf) | Transformer pipeline |
 | [`la_core_web_lg`](https://huggingface.co/latincy/la_core_web_lg) | Large pipeline with floret vectors |
 | [`la_core_web_md`](https://huggingface.co/latincy/la_core_web_md) | Medium pipeline with floret vectors |
 | [`la_core_web_sm`](https://huggingface.co/latincy/la_core_web_sm) | Small pipeline |
